@@ -34,6 +34,6 @@
 ## **Result**
 <img width="787" height="63" alt="image" src="https://github.com/user-attachments/assets/96610a01-3638-4c67-8c6f-b3e6d2b1cc80" />
 
-**VOLTAGE GAIN =**68 db
+**VOLTAGE GAIN =68 db**
 
-**BANDWIDTH =**69.9Mhz
+**BANDWIDTH =69.9Mhz**
