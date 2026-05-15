@@ -36,4 +36,4 @@
 
 **VOLTAGE GAIN =**68 db
 
-**BANDWIDTH =**=69.9Mhz
+**BANDWIDTH =**69.9Mhz
