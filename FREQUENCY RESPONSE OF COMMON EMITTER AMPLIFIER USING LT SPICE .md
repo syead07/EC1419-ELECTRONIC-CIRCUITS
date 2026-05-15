@@ -28,6 +28,8 @@
 
 ## Graph
 
+<img width="1528" height="685" alt="image" src="https://github.com/user-attachments/assets/a3d7d884-3b8b-4848-a46a-d4aa915f6f3b" />
+
 
 ## **Result**
 <img width="787" height="63" alt="image" src="https://github.com/user-attachments/assets/96610a01-3638-4c67-8c6f-b3e6d2b1cc80" />
