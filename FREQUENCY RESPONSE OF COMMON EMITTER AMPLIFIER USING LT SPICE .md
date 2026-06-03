@@ -24,16 +24,20 @@
 
 <img width="520" height="416" alt="image" src="https://github.com/user-attachments/assets/c8e67646-bb9d-4bf3-a4c9-6ba57b0d80f3" />
 
-## Tabulation
-
 ## Graph
+## INPUT
+<img width="1911" height="494" alt="515667076-984fb3b5-71c2-42ff-b6cf-49a7ec02e082" src="https://github.com/user-attachments/assets/dcbaac4d-16b4-47fa-8326-f41b6914ca9d" />
 
-<img width="1528" height="685" alt="image" src="https://github.com/user-attachments/assets/a3d7d884-3b8b-4848-a46a-d4aa915f6f3b" />
-
-
+## OUTPUT
+![515666564-8381eae1-240f-4ede-9da4-3e9c098cc0ac](https://github.com/user-attachments/assets/46f658a8-1124-424b-8ec4-80e42a6e4738)
 ## **Result**
 <img width="787" height="63" alt="image" src="https://github.com/user-attachments/assets/96610a01-3638-4c67-8c6f-b3e6d2b1cc80" />
 
-**VOLTAGE GAIN =68 db**
+**VOLTAGE GAIN = −247 (≈47.8 dB)
 
-**BANDWIDTH =69.9Mhz**
+**BANDWIDTH = 1.2 MHz
+<img width="787" height="63" alt="image" src="https://github.com/user-attachments/assets/96610a01-3638-4c67-8c6f-b3e6d2b1cc80" />
+
+**VOLTAGE GAIN =100**
+
+**BANDWIDTH =200KHz**
